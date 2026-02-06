@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Pranav 👋
 
-<!--
-**Pranavashtagi/PranavAshtagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on AI & Data Science.
 
-Here are some ideas to get you started:
+Currently:
+- Learning Machine Learning
+- Practicing DSA in Python
+- Building real-world ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+- Python
+- NumPy
+- Pandas
+- Scikit-learn (learning)
+
+Goal:
+To become a strong AI/ML engineer.
