@@ -1,39 +1,88 @@
 # Hi, I'm Pranav 👋
 
-🎓 Computer Science Student (2023–2027)  
-💡 Focused on AI, Machine Learning, and Data Science  
-💻 Strong in Data Structures & Algorithms using Python  
+🎓 Computer Science Engineering Student (2023–2027)  
+💻 Aspiring Software Engineer | Python Developer  
+🤖 Interested in AI, Machine Learning & Data Science  
 
 ---
 
-## 🚀 About Me
-- Strong foundation in Data Structures & Algorithms (Python)  
-- Building Machine Learning and Deep Learning projects  
-- Continuously learning and improving in AI/ML  
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.E. in Computer Science Engineering
+- 💻 Building full-stack applications and backend systems
+- 🐍 Working with Python for development, DSA and Machine Learning
+- 🔧 Hands-on experience with TypeScript, Fastify, Prisma and PostgreSQL
+- 🤖 Interested in AI/ML and data-driven applications
+- 🚀 Currently working on real-world software projects
 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Python (DSA, ML), C, Java  
-- Libraries: NumPy, Pandas, Scikit-learn  
-- Web: HTML, CSS, JavaScript, React  
-- Database: SQL  
-- Tools: Git, GitHub  
+
+### Languages
+Python • TypeScript • JavaScript • C • SQL
+
+### Frontend
+HTML • CSS • JavaScript • Tailwind CSS
+
+### Backend
+Node.js • Fastify • REST APIs • Flask
+
+### Database & ORM
+PostgreSQL • Prisma
+
+### AI / ML
+Machine Learning • Python
+
+### Tools
+Git • GitHub • pgAdmin
 
 ---
 
-## 📌 Current Focus
-- Learning Machine Learning concepts  
-- Practicing Data Structures & Algorithms regularly  
-- Building real-world ML projects  
+## 🚀 Featured Projects
+
+### 🛒 SANTE — AI-Integrated Multi-Role E-commerce Platform
+An AI-integrated e-commerce platform supporting Admin, Seller and Buyer workflows.
+
+**Includes:**
+- Authentication & role-based authorization
+- Seller onboarding and product management
+- Cart and order management
+- Payment architecture
+- Logistics and shipment tracking
+- Notifications and reviews
+- Analytics and reports
+- Product and media management
+
+**Tech:** TypeScript, Fastify, Prisma, PostgreSQL, HTML, CSS, JavaScript, Tailwind CSS
 
 ---
 
-## 🎯 Goal
-To become a skilled AI/ML Engineer and build scalable, real-world intelligent systems  
+### 🍎 NutriScan AI — Food Nutrition Estimator
+A web application that estimates calories and nutritional information from food images using machine learning.
+
+**Tech:** Python, CNN, Flask
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/pranavashtagi  
-- GitHub: https://github.com/Pranavashtagi  
+## 📚 Currently Learning
+
+- Data Structures & Algorithms with Python
+- Machine Learning
+- Backend Development
+- Software Engineering Practices
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Software Engineer and build reliable,
+scalable and real-world software systems while continuing to
+explore AI and Machine Learning.
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/pranavashtagi](https://linkedin.com/in/pranavashtagi)
+- 📧 Email: pranavashtagi@gmail.com
